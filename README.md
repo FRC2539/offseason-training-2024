@@ -1,1 +1,1 @@
-# offseason-training-2024
+# Programming Boot Camp 2024
